@@ -128,8 +128,8 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
 <body>
     <button class="lang-toggle" onclick="toggleLanguage()">Español</button>
     <h1>
-        <span class="lang-en active">So you want to operate the 3rd Fl Conference Room?</span>
-        <span class="lang-es">¿Quieres operar la sala de conferencias del 3er piso?</span>
+        <span class="lang-en active">So you want to operate the 3rd Fl Corner Conference Room?</span>
+        <span class="lang-es">¿Quieres utilizar la sala de conferencias de la esquina del 3er piso?</span>
     </h1>
     <div id="content">
         {options_html}
