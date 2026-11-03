@@ -1,0 +1,57 @@
+{
+  "options": [
+    {
+      "id": "start",
+      "title": {
+        "en": "Locate the corner conference room 313",
+        "es": "Localice la sala de conferencias de la esquina 313"
+      },
+      "steps": [
+        {
+          "instruction": {
+            "en": "Let's turn the main TV on. Look for the Samsung remote OR use the button underneath the TV like so:",
+            "es": "Encendamos la TV principal. Busque el control remoto Samsung O use el botón debajo de la TV de esta manera:"
+          },
+          "video_url": "https://drive.google.com/file/d/1AlTWr4J8YzaBFDCqryvQg41zlsO2HRK6/view?usp=sharing",
+          "alt": {
+            "en": "Video showing how to turn the Main TV on",
+            "es": "Video que muestra cómo encender la TV principal"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Once the TV is on, look under the round wooden table for an HDMI cable.",
+            "es": "Una vez que la TV esté encendida, busque un cable HDMI debajo de la mesa redonda de madera."
+          },
+          "video_url": "https://drive.google.com/file/d/1aWOH8G8ZLuR3V5oFGnyMrQ5Djo19A2s9/view?usp=sharing",
+          "alt": {
+            "en": "Video showing where to look for the HDMI cable",
+            "es": "Video que muestra dónde buscar el cable HDMI"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Connect the HDMI cable to the open port on your laptop.",
+            "es": "Conecte el cable HDMI al puerto abierto de su computadora portátil."
+          },
+          "image": "Qns.3rdConf.HDMI2computer.jpg",
+          "alt": {
+            "en": "Shows the HDMI connector and HDMI port on a random laptop",
+            "es": "Muestra el conector HDMI y el puerto HDMI en una computadora portátil"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Now, let's switch the TV's input to PC. If the TV did not switch automatically, try using the button underneath the TV like so:",
+            "es": "Ahora, cambiemos la entrada de la TV a PC. Si la TV no cambió automáticamente, intente usar el botón debajo de la TV de esta manera:"
+          },
+          "video_url": "https://drive.google.com/file/d/1aWOH8G8ZLuR3V5oFGnyMrQ5Djo19A2s9/view?usp=sharing",
+          "alt": {
+            "en": "Video showing how to switch the TV input to PC",
+            "es": "Video que muestra cómo cambiar la entrada de la TV a PC"
+          }
+        }
+      ]
+    }
+  ]
+}
